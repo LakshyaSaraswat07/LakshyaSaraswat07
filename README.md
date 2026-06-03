@@ -12,7 +12,7 @@ I am a B.Tech student in Electronics and Communication Engineering (ECE) at Pran
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=LakshyaSaraswat07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LakshyaSaraswat07&theme=tokyonight" />
 </p>
 
 <p align="center">
