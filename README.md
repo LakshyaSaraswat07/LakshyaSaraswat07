@@ -13,7 +13,7 @@ I am a B.Tech student in Electronics and Communication Engineering (ECE) at Pran
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LakshyaSaraswat07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaSaraswat07&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=LakshyaSaraswat07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
