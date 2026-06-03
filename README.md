@@ -10,8 +10,10 @@ I am a B.Tech student in Electronics and Communication Engineering (ECE) at Pran
 
 # 📊 GitHub Stats:
 
-![](https://streak-stats.demolab.com?user=LakshyaSaraswat07&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LakshyaSaraswat07&theme=tokyonight&hide_border=true" />
+</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaSaraswat07&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LakshyaSaraswat07&theme=tokyonight)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LakshyaSaraswat07&theme=tokyonight" />
+</p>
